@@ -7,6 +7,8 @@ This Project build to met the final project at Instinct Institute and this proje
 
 Because it cause alot of issues with the old repo
 
+**Direct Link:** https://real-estate-web.pages.dev/
+
 
 ## Tech Stack
 
@@ -38,13 +40,13 @@ To run tests, run the following command
 Clone the project
 
 ```bash
-  git clone [https://link-to-project](https://github.com/Chongyean/homyzEstate.git)
+  git clone https://github.com/Chongyean/homyzEstate.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd homyzEstate
 ```
 
 Install dependencies
@@ -58,6 +60,6 @@ Start the server
 ```bash
   npm run start
 ```
-**Direct Link:** https://real-estate-web.pages.dev/
+
  
 
