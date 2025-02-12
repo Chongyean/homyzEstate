@@ -54,5 +54,6 @@ Start the server
 ```bash
   npm run start
 ```
- https://real-estate-web.pages.dev/
+**Direct Link:** https://real-estate-web.pages.dev/
+ 
 
