@@ -38,7 +38,7 @@ To run tests, run the following command
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone [https://link-to-project](https://github.com/Chongyean/homyzEstate.git)
 ```
 
 Go to the project directory
