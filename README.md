@@ -1,8 +1,8 @@
 
 # Homyz Real Estate Project
 
-This Project build to met the final project at Instinct Institute and this project build by using tech stack like React.js and Vite.,
-**Clone from :**https://github.com/Chongyean/myNexusGame/tree/main/client
+This Project build to met the final project at Instinct Institute and this project build by using tech stack like React.js and Vite.
+**Clone from :** https://github.com/Chongyean/myNexusGame/tree/main/client
 Because it cause alot of issues with the old repo
 
 
